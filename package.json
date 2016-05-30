@@ -1,0 +1,20 @@
+{
+  "name": "tecnap2016",
+  "version": "1.0.0",
+  "description": "ES2015",
+  "main": "js/reveal.js",
+  "scripts": {
+    "start": "./node_modules/lite-server/bin/lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Juan M Cañabate",
+    "email": "juanmanuel@patagonian.it"
+  },
+  "engines": {
+    "node": "~4.1.1"
+  },
+  "dependencies": {
+    "lite-server": "^2.2.0"
+  }
+}
