@@ -1,8 +1,8 @@
 {
   "name": "tecnap2016",
   "version": "1.0.0",
-  "description": "Slides para la TecNap 2015 sobre ES2015",
-  "main": "js/reveal.js",
+  "description": "Slides para la TecNap 2016 sobre ES2015",
+  "main": "index.html",
   "scripts": {
     "start": "./node_modules/lite-server/bin/lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
