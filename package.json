@@ -1,7 +1,7 @@
 {
   "name": "tecnap2016",
   "version": "1.0.0",
-  "description": "ES2015",
+  "description": "Slides para la TecNap 2015 sobre ES2015",
   "main": "js/reveal.js",
   "scripts": {
     "start": "./node_modules/lite-server/bin/lite-server",
